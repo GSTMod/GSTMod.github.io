@@ -1,1 +1,1 @@
-# GSTModGroup.github.io
+# GSTMod.github.io
